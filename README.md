@@ -5,6 +5,8 @@
 ## 使用教學
 ### 查詢自己電腦ip(兩台電腦要在同一個網域內)
 ### 解壓縮完有exe可以直接開，或者python檔手動執行
+![image](https://github.com/user-attachments/assets/659b7a0d-b810-4f95-be31-e7b8ce99e46c)
+
 ### 接著連上http://自己的ip:8000
 ![image](https://github.com/user-attachments/assets/5013336b-4f30-4622-a445-32a91a345285)
 
